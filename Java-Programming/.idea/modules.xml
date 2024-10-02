@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Programming.iml" filepath="$PROJECT_DIR$/Java-Programming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week 4/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/week 4/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/src/Lab3/Lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Week 2/Week 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2-Lab/Week2-Lab.iml" filepath="$PROJECT_DIR$/Week2-Lab/Week2-Lab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab2/exercise1/exercise1.iml" filepath="$PROJECT_DIR$/lab2/exercise1/exercise1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab2/exercise2/exercise2.iml" filepath="$PROJECT_DIR$/lab2/exercise2/exercise2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab2/exercise3/exercise3.iml" filepath="$PROJECT_DIR$/lab2/exercise3/exercise3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/lab2/exercise1/exercise1.iml" filepath="$PROJECT_DIR$/src/lab2/exercise1/exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/lab2/exercise2/exercise2.iml" filepath="$PROJECT_DIR$/src/lab2/exercise2/exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/lab2/exercise3/exercise3.iml" filepath="$PROJECT_DIR$/src/lab2/exercise3/exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/lab2/lab2.iml" filepath="$PROJECT_DIR$/src/lab2/lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/week 3/week 3.iml" filepath="$PROJECT_DIR$/week 3/week 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/week 4/week 4.iml" filepath="$PROJECT_DIR$/week 4/week 4.iml" />
     </modules>
