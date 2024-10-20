@@ -1,7 +1,9 @@
-package Lab3;
+package exercise1;
+
+import exercise1.Health;
+import exercise1.Life;
 
 import javax.swing.*;
-import java.awt.image.LookupOp;
 
 public class Main
 {

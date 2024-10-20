@@ -1,4 +1,4 @@
-package Lab3;
+package exercise1;
 
 public abstract class Insurance
 {
