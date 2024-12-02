@@ -8,7 +8,6 @@ public class BusinessMortgage extends Mortgage {
 
     @Override
     public void setInterestRate(double primeRate) {
-        // 1% over the prime rate
         super.interestRate = primeRate + 1.0;
     }
 }

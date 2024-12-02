@@ -1,0 +1,15 @@
+#titleLabel{
+    -fx-text-fill: BLUE;
+    -fx-alignment: center;
+}
+#textLabel{
+    -fx-font-size: 20;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: MAROON;
+    -fx-alignment: center;
+}
+
+.root {
+    -fx-background-color: BLACK;
+    -fx-alignment: center;
+}

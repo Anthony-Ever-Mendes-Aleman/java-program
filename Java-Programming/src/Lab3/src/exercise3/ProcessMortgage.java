@@ -17,7 +17,7 @@ public class ProcessMortgage {
             System.out.print("Enter mortgage number: ");
             int mortgageNumber = scanner.nextInt();
 
-            scanner.nextLine(); // Consume the newline
+            scanner.nextLine();
             System.out.print("Enter customer name: ");
             String customerName = scanner.nextLine();
 

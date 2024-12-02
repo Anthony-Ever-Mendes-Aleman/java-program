@@ -8,7 +8,7 @@ public class PersonalMortgage extends Mortgage {
 
     @Override
     public void setInterestRate(double primeRate) {
-        // 2% over the prime rate
+
         super.interestRate = primeRate + 2.0;
     }
 }
